@@ -14,7 +14,7 @@
     display:block;
     font-weight: bold;
 }
-.form-style .title{
+.form-style .title .result{
     line-height: 30px;
     color: #333;
     text-align: center;
